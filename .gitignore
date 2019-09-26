@@ -1,0 +1,4 @@
+node_modules/
+*.log
+*.db
+output-bad.csv
