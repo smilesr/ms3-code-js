@@ -21,7 +21,7 @@ Instructions to run program (on MAC):
 Additional notes:
 
 1. I cleaned up the data before running the program to eliminate all of the extra trailing commas.  I did this by running:
-
+```
 sed 's/,,,,,//g' ms3Interview-copy.csv > cleanedms3Interview.csv
-
+```
 The cleaned-up .csv file is what is included in this directory.
